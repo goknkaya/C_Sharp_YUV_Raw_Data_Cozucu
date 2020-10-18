@@ -1,0 +1,9 @@
+c:\users\gokha\documents\visual studio 2015\Projects\YuvFileReader\YuvFileReader\bin\Debug\YuvFileReader.exe.config
+c:\users\gokha\documents\visual studio 2015\Projects\YuvFileReader\YuvFileReader\bin\Debug\YuvFileReader.exe
+c:\users\gokha\documents\visual studio 2015\Projects\YuvFileReader\YuvFileReader\bin\Debug\YuvFileReader.pdb
+c:\users\gokha\documents\visual studio 2015\Projects\YuvFileReader\YuvFileReader\obj\Debug\YuvFileReader.csprojResolveAssemblyReference.cache
+c:\users\gokha\documents\visual studio 2015\Projects\YuvFileReader\YuvFileReader\obj\Debug\YuvFileReader.Form1.resources
+c:\users\gokha\documents\visual studio 2015\Projects\YuvFileReader\YuvFileReader\obj\Debug\YuvFileReader.Properties.Resources.resources
+c:\users\gokha\documents\visual studio 2015\Projects\YuvFileReader\YuvFileReader\obj\Debug\YuvFileReader.csproj.GenerateResource.Cache
+c:\users\gokha\documents\visual studio 2015\Projects\YuvFileReader\YuvFileReader\obj\Debug\YuvFileReader.exe
+c:\users\gokha\documents\visual studio 2015\Projects\YuvFileReader\YuvFileReader\obj\Debug\YuvFileReader.pdb
