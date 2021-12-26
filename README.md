@@ -1,6 +1,6 @@
 Kocaeli Üniversitesi Yazılım Lab - 3. Proje
 
-# YUV-Raw-Data COZUCU
+# YUV-Raw-Data Çözücü
 Proje: YUV (Raw Data) Çözücü
 
 YUV renk formatı, RGB renk uzayına alternatif olarak önerilmiş bir renk uzayıdır.  Y bileşeni ışıklılık bileşenine, U (Cb) ve V (Cr) ise renk bileşenlerine karşılık gelmektedir. Y ve U-V bileşenleri, ışıklılık ve renk kanalları olarak da bilinmektedir.  RGB renk uzayında bir piksel ortalama 24 bit ile ifade edilirken, YUV renk uzayında piksel başına ortalama 24 bitten daha az sayıda bit kullanılabilmektedir. Bunun nedeni, U ve V kanallarında Y kanalına göre daha az sayıda piksel içermesidir. Literatürde farklı örnekleme türleriyle hazırlanmış YUV formatları bulunmaktadır. Örneğin;
