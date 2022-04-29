@@ -14,8 +14,6 @@ Projede sizden istenenler aşağıda listelenmiştir:
 •	.bmp kaydetme: Parse işlemi sonrası tüm görüntü çerçevelerinin sadece Y bileşenleri numaralandırılarak kaydedilecektir. 
 •	Görüntü oynatma/gösterme: Parse işlemi sonrası sadece Y bileşenleri, tasarlanacak arayüz üzerinde oynatılacaktır. Oynatma işlemi, çerçeve bazlı yapılacaktır. 
 
-#### Kocaeli University Software Lab - 3rd Project
-
 # YUV-Raw-Data Solver
 ## Project: YUV (Raw Data) Solver
 
