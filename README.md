@@ -1,5 +1,3 @@
-#### Kocaeli Üniversitesi Yazılım Lab - 3. Proje
-
 # YUV-Raw-Data Çözücü
 ## Proje: YUV (Raw Data) Çözücü
 
