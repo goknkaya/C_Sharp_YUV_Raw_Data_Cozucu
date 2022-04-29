@@ -14,7 +14,7 @@ Projede sizden istenenler aşağıda listelenmiştir:
 •	.bmp kaydetme: Parse işlemi sonrası tüm görüntü çerçevelerinin sadece Y bileşenleri numaralandırılarak kaydedilecektir. 
 •	Görüntü oynatma/gösterme: Parse işlemi sonrası sadece Y bileşenleri, tasarlanacak arayüz üzerinde oynatılacaktır. Oynatma işlemi, çerçeve bazlı yapılacaktır. 
 
-<img src="https://i.hizliresim.com/a8rt1mg.png" width="400" height="400"></img>
+<img src="https://i.hizliresim.com/a8rt1mg.png"></img>
 
 # YUV-Raw-Data Solver
 ## Project: YUV (Raw Data) Solver
